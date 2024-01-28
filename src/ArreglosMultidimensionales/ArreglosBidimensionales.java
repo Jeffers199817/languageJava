@@ -17,6 +17,6 @@ public class ArreglosBidimensionales {
             total += a[fila][columna];
         }
 
-        System.out.println(" Suma total es: " + total);
-    }
+System.out.println(" Suma total es: " + total);
+}
 }
